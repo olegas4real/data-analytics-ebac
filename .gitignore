@@ -37,3 +37,7 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Config local de agente: fica na maquina, nunca no repo.
+# As skills e o settings.json compartilhados do .claude/ continuam versionados.
+.claude/settings.local.json
